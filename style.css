@@ -1,0 +1,83 @@
+body{}
+.left-body{
+	background-color: #ed9a47;
+	height: 700px;
+	position: relative;
+}
+.right-body{
+	background-color: #348262;
+	height: 700px;
+	position: relative;
+}
+.bg-red{
+	left: 0px;
+	height: 400px;
+	width:50%;
+	background-color: #eb3b2f;
+	position:absolute;
+}
+.navbar{
+	position: relative;
+	background: black;
+}
+.navbar-brand{
+	background-color:#348262;
+}
+.navbar a{
+	color: white;
+}
+.content-body{
+position: absolute;
+margin-top: 120px;
+margin-left: 75px;
+}
+.bg-a{
+	height: 500px;
+	background-color: white;
+	text-align:center;
+}
+.bg-b{
+	height: 500px; 
+	background-color: #eb3b2f;
+	font-size: 20px;
+	color: white;
+}
+
+.footer{
+   position: absolute;
+   right: 0px;
+   bottom: 0px;
+   width: 100%;
+   background-color: transparent;
+   text-align: right;
+   color: black;
+}
+.fa {
+  padding: 10px;
+  font-size: 8px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  color: white;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-google {
+  color: white;
+}
+.login-page{
+ 
+  position: absolute;
+  margin-top:150px; 
+}
+.panel-default{
+	margin-top:150px; 
+	position: absolute;
+}
